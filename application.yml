@@ -8,6 +8,6 @@ message:
 spring:  
   profiles: dev
 message1:
-  greeting1:This is from profile
+  greeting1:  This is from profile
 
   
