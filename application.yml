@@ -1,0 +1,13 @@
+configuration:  
+  projectName: configclient
+server:  
+  port: 8000
+message:  
+  greeting: Hello from the configuration
+---
+spring:  
+  profiles: dev
+message1:
+  greeting1:This is from profile
+
+  
